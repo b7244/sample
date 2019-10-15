@@ -5,6 +5,10 @@
 
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/nav_callender"
+
+            android:title="@string/menu_callender" />
+        <item
             android:id="@+id/nav_home"
 
             android:title="@string/menu_home" />
